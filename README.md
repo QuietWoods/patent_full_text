@@ -6,7 +6,7 @@ https://github.com/will4906/PatentCrawler
 ## 运行程序
 python patent.py
 ## 注意事项
-python 3.5+
-bs4
-numpy
-lxml
+*python 3.5+
+*bs4
+*numpy
+*lxml
